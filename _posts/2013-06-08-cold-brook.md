@@ -1,0 +1,32 @@
+---
+ID: 1803
+post_title: Cold Brook
+author: Alex Kerney
+post_date: 2013-06-08 19:15:23
+post_excerpt: ""
+layout: post
+permalink: >
+  http://alexkerney.com/2013/06/cold-brook/
+published: true
+---
+The remnants of Tropical Storm Andrea turned out to be enough to bring up Cold Brook in South Tamworth, NH. It's a pretty steep creek, so I was glad to have one of the locals show me down, and have a couple others to watch paddle the first couple rapids. As always you can click on pic to make them bigger and play as a slideshow. Joey getting himself on line for Cold Fusion.[<img class="alignnone size-large wp-image-1815 [ftmt_id] nofotomoto" alt="Joey lining up in Cold Fusion on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0177-840x1264.jpg" />][1] Jeremy entering Cold Fusion.[<img class="alignnone size-large wp-image-1816 [ftmt_id] nofotomoto" alt="Jeremy beginning Cold Fusion on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0187-840x1264.jpg" />][2] Jeremy in Cold Fusion[<img class="alignnone size-large wp-image-1817 [ftmt_id] nofotomoto" alt="Jeremy in Cold Fusion on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0191-840x1264.jpg" />][3] Jeremy part way down Backbreaker Falls.[<img class="alignnone size-large wp-image-1818 [ftmt_id] nofotomoto" alt="Jeremy in Backbreaker Falls on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0202-840x1264.jpg" />][4] Jeremy entering Particle Accelerator.[<img class="alignnone size-large wp-image-1819 [ftmt_id] nofotomoto" alt="Jeremy entering Particle Accelerator on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0210-840x1264.jpg" />][5] [<img class="alignnone size-large wp-image-1820 [ftmt_id] nofotomoto" alt="Jeremy hitting the first rooster tail in Particle Accelerator on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0211-840x1264.jpg" />][6] [<img class="alignnone size-large wp-image-1821 [ftmt_id] nofotomoto" alt="Jeremy part way down Particle Accelerator on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0212-840x1264.jpg" />][7] [<img class="alignnone size-large wp-image-1822 [ftmt_id] nofotomoto" alt="20130608_DSC0215" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0215-840x1264.jpg" />][8] Scott entering NO2 Chute.[<img class="alignnone size-large wp-image-1804 [ftmt_id] nofotomoto" alt="Scott entering NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0008-840x1264.jpg" />][9] [<img class="alignnone size-large wp-image-1805 [ftmt_id] nofotomoto" alt="Scott in NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0013-840x1264.jpg" />][10] [<img class="alignnone size-large wp-image-1806 [ftmt_id] nofotomoto" alt="Scott in NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0014-840x1264.jpg" />][11] [<img class="alignnone size-large wp-image-1807 [ftmt_id] nofotomoto" alt="Scott boofing off the end of NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0016-840x1264.jpg" />][12] What happened Joey?[<img class="alignnone size-large wp-image-1808 [ftmt_id] nofotomoto" alt="Scott and Jeremy trying to find out what happened to Joey in NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0024-840x557.jpg" />][13] Joel entering NO2 Chute.[<img class="alignnone size-large wp-image-1809 [ftmt_id] nofotomoto" alt="Joel entering NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0031-840x557.jpg" />][14] [<img class="alignnone size-large wp-image-1810 [ftmt_id] nofotomoto" alt="Joel entering NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0033-840x557.jpg" />][15] [<img class="alignnone size-large wp-image-1811 [ftmt_id] nofotomoto" alt="Joel in NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0034-840x557.jpg" />][16] [<img class="alignnone size-large wp-image-1812 [ftmt_id] nofotomoto" alt="Joel in NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0037-840x557.jpg" />][17] [<img class="alignnone size-large wp-image-1813 [ftmt_id] nofotomoto" alt="Joel boofing off the end of NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0038-840x557.jpg" />][18] [<img class="alignnone size-large wp-image-1814 [ftmt_id] nofotomoto" alt="Joel rolling up after NO2 Chute on Cold Brook in NH" src="http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0042-840x557.jpg" />][19]There may be more to come.
+
+ [1]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0177.jpg
+ [2]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0187.jpg
+ [3]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0191.jpg
+ [4]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0202.jpg
+ [5]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0210.jpg
+ [6]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0211.jpg
+ [7]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0212.jpg
+ [8]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0215.jpg
+ [9]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0008.jpg
+ [10]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0013.jpg
+ [11]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0014.jpg
+ [12]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0016.jpg
+ [13]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0024.jpg
+ [14]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0031.jpg
+ [15]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0033.jpg
+ [16]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0034.jpg
+ [17]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0037.jpg
+ [18]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0038.jpg
+ [19]: http://alexkerney.com/wp-content/uploads/2013/06/20130608_DSC0042.jpg
