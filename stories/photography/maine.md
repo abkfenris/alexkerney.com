@@ -1,0 +1,15 @@
+<html><body><p>[largeimage description="Spectacle Island Sunrise"]<a href="http://alexkerney.com/posted/DSC_3682pamoL.jpg"><img src="http://alexkerney.com/wp-content/uploads/2011/06/DSC_3682pamo.jpg" alt="Spectacle Island Sunrise" title="DSC_3682pamo" width="800" height="125" class="nofotomoto alignnone size-full wp-image-828"></a>[/largeimage]
+
+[largeimage description="Low Visability"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/Low-Visability.jpg"><img class="nofotomoto alignnone size-full wp-image-789" title="Low Visability" src="http://alexkerney.com/wp-content/uploads/2011/06/Low-Visability.jpg" alt="Low Visability" width="800" height="1199"></a>[/largeimage]
+
+[largeimage description="Camden Hills"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/IMG_3444.jpg"><img class="nofotomoto alignnone size-full wp-image-791" title="IMG_3444" src="http://alexkerney.com/wp-content/uploads/2011/06/IMG_3444.jpg" alt="Camden Hills" width="800" height="533"></a>[/largeimage]
+
+[largeimage description="Hendrick's Head Sunset"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/DSC_0210_1_2Enhancer.jpg"><img class="nofotomoto alignnone size-full wp-image-790" title="DSC_0210_1_2Enhancer" src="http://alexkerney.com/wp-content/uploads/2011/06/DSC_0210_1_2Enhancer.jpg" alt="Hendrick's Head Sunset" width="800" height="450"></a>[/largeimage]
+
+[largeimage description="Night Sailing aboard the Spirit of Massachusetts"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/IMG_3022.jpg"><img class="nofotomoto alignnone size-full wp-image-794" title="IMG_3022" src="http://alexkerney.com/wp-content/uploads/2011/06/IMG_3022.jpg" alt="Night Sailing aboard the Spirit of Massachusetts" width="800" height="1200"></a>[/largeimage]
+
+[largeimage description="Sunset in the Gut"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/20090603DSC_2104pano_fused-3x1.jpg"><img src="http://alexkerney.com/wp-content/uploads/2011/06/20090603DSC_2104pano_fused-3x1.jpg" alt="" title="20090603DSC_2104pano_fused - 3x1" width="800" class="nofotomoto alignnone size-full wp-image-1004 [ftmt_id]"></a>[/largeimage]
+
+[largeimage description="Reflections of the Sun"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/DSC00601.jpg"><img class="nofotomoto alignnone size-full wp-image-795" title="DSC00601" src="http://alexkerney.com/wp-content/uploads/2011/06/DSC00601.jpg" alt="Reflections of the Sun" width="800" height="1067"></a>[/largeimage]
+
+[largeimage description="Spectacle Island Sunset"]<a href="http://alexkerney.com/wp-content/uploads/2011/06/DSC_3451.jpg"><img class="nofotomoto alignnone size-full wp-image-797" title="DSC_3451" src="http://alexkerney.com/wp-content/uploads/2011/06/DSC_3451.jpg" alt="Spectacle Island Sunset" width="800" height="950"></a>[/largeimage]</p></body></html>

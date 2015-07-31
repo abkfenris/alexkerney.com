@@ -1,0 +1,5 @@
+<html><body><p>Back from Chewonki Trips, chewing through photos and recovering for whatever is next. For now a quote from <a title="Doug Ammons" href="http://www.dougammons.com">Doug Ammons</a> about learning to paddle.
+
+
+
+<em>Okay grasshopper, here it is: Let otters be your inspiration. Learn to play with the water in all its moods and forms. Never fight it, never feel conflict. To paddle at the highest level you need to belong in each river you move with. Any nervousness shows your weakness, so find and remove every weakness. Train slalom, play paddle, run every kind of river, creek, pond, lake, and ocean you can touch, paddle every kind of boat, catch every eddy you can, surf every wave, do every move possible, learn everything about what the current does — you’ll never succeed but trying is an awful lot of fun — feel the music of the water, apply skateboarding and music and martial arts to paddling and learn how to ricochet and ride and slide off of rock features. Paddle the way an otter would if he had a kayak. He doesn’t need one, and you need to get to the place where it is part of you.</em></p></body></html>

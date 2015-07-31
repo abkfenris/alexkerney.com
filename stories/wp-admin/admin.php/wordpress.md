@@ -1,0 +1,1 @@
+<html><body><p>How to use WordPress features.</p></body></html>

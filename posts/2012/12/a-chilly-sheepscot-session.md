@@ -1,0 +1,5 @@
+<html><body><p>Just a couple of shots from paddling at Sheepscot yesterday on a 13.5 foot tide. Above is Jeff contemplating his choice of dishwashing gloves to keep his hands warm in 28° air and 24° water.<a href="http://alexkerney.com/wp-content/uploads/2012/12/20121215PC150010.jpg"><img class="alignnone size-large wp-image-1710 [ftmt_id] nofotomoto" alt="OLYMPUS DIGITAL CAMERA" src="http://alexkerney.com/wp-content/uploads/2012/12/20121215PC150010-840x630.jpg"></a>
+
+Ryan enjoying the middle wave. We had a couple minute party wave with all of us out there at once which doesn't happen often in December or on 13 foot tides.<a href="http://alexkerney.com/wp-content/uploads/2012/12/20121215PC150011.jpg"><img class="alignnone size-large wp-image-1711 [ftmt_id] nofotomoto" alt="OLYMPUS DIGITAL CAMERA" src="http://alexkerney.com/wp-content/uploads/2012/12/20121215PC150011-840x840.jpg"></a>
+
+Is salt spray supposed to freeze that fast?</p></body></html>

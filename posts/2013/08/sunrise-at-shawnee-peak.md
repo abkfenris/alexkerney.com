@@ -1,0 +1,1 @@
+<html><body><a href="http://alexkerney.com/wp-content/uploads/2013/08/20130816_DSC0003.jpg"><img src="http://alexkerney.com/wp-content/uploads/2013/08/20130816_DSC0003-840x557.jpg" alt="Sunrise at Shawnee Peak while hiking up with Bridgton Academy faculty" class="alignnone size-large wp-image-1962 [ftmt_id] nofotomoto"></a></body></html>
