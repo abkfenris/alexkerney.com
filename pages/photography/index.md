@@ -12,7 +12,7 @@
 Specific Portfolios:
 --------------------
 
-### [Maine](/photography/maine/) • [Kayak](/photography/kayak/) • [Patagonia](/photography/patagonia/) • [Ski](/photography/ski/)
+### [Maine](/photography/maine.html) • [Kayak](/photography/kayak.html) • [Patagonia](/photography/patagonia.html) • [Ski](/photography/ski.html)
 
 
 As a geek, and someone who loves to be outdoors I've gotten into photography due to it being at the intersection of those two interests. I will take other kinds of photos, but photography is primarily a way for me to share my experiences with the world.

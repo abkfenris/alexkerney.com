@@ -4,7 +4,7 @@
 
 <a href="http://alexkerney.com/wp-content/uploads/2014/01/20131230__DSC0757.jpg"><img class="alignnone size-large wp-image-1989 [ftmt_id] nofotomoto" alt="20131230__DSC0757" src="http://alexkerney.com/wp-content/uploads/2014/01/20131230__DSC0757-840x1264.jpg"></a>
 
-
+<!-- TEASER_END -->
 
 But that's really a good bit of the content of this post.
 
