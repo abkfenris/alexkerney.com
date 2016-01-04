@@ -14,4 +14,4 @@
 
 [![Motoring Away](/wp-content/uploads/2011/06/DSC0026.jpg "_DSC0026")](/wp-content/uploads/2011/06/DSC0026.jpg)
 
-[![Golden Glow](/wp-content/uploads/2011/01/Boats3.jpg "Golden Glow")](/wp-content/uploads/2011/01/Boats3.jpg)[/largeimage]
+[![Golden Glow](/wp-content/uploads/2011/01/Boats3.jpg "Golden Glow")](/wp-content/uploads/2011/01/Boats3.jpg)

@@ -12,4 +12,4 @@
 
 [![Reflections of the Sun](/wp-content/uploads/2011/06/DSC00601.jpg "DSC00601")](/wp-content/uploads/2011/06/DSC00601.jpg)
 
-[![Spectacle Island Sunset](/wp-content/uploads/2011/06/DSC_3451.jpg "DSC_3451")](/wp-content/uploads/2011/06/DSC_3451.jpg)[/largeimage]
+[![Spectacle Island Sunset](/wp-content/uploads/2011/06/DSC_3451.jpg "DSC_3451")](/wp-content/uploads/2011/06/DSC_3451.jpg)

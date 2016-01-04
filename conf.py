@@ -28,6 +28,28 @@ SITE_URL = "http://alexkerney.com/"
 BLOG_EMAIL = "abk@mac.com"
 BLOG_DESCRIPTION = "PUT DESCRIPTION HERE"  # (translatable)
 
+# Coil goodies
+COIL_SECRET_KEY = '=Y8KbgjdKDyFz$ruqmEAb7BzWsiHxgKQnyNQYbPeGArRLQrVgP'
+#COIL_URL = 'localhost:8001'
+_MAKO_DISABLE_CACHING = True
+COIL_LIMITED = True
+COIL_USERS = {
+    '1': {
+        'username': 'admin',
+        'realname': 'Website Administrator',
+        'password': '$bcrypt-sha256$2a,12$St3N7xoStL7Doxpvz78Jve$3vKfveUNhMNhvaFEfJllWEarb5oNgNu',
+        'must_change_password': False,
+        'email': 'abk@mac.com',
+        'active': True,
+        'is_admin': True,
+        'can_edit_all_posts': True,
+        'wants_all_posts': True,
+        'can_upload_attachments': True,
+        'can_rebuild_site': True,
+        'can_transfer_post_authorship': True,
+    },
+}
+
 # Nikola is multilingual!
 #
 # Currently supported languages are:
@@ -207,17 +229,21 @@ TIMEZONE = "UTC"
 #
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "", "post.tmpl"),
+    ("posts/*.txt", "", "post.tmpl"),
+    ("posts/*.md", "", "post.tmpl"),
+    ("posts/*.html", "", "post.tmpl"),
+    ("posts/*.ipynb", "", "post.tmpl"),
+    ("posts/*.html", "", "post.tmpl"),
 )
 
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.md", "stories", "story.tmpl"),
-    ("stories/*.html", "stories", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
+    ("pages/*.ipynb", "", "story.tmpl"),
+    ("pages/*.ipynb", "", "story.tmpl"),
 )
 
 
@@ -244,6 +270,7 @@ COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "html": ('.html', '.htm'),
+    "ipynb": ('.ipynb',)
 }
 
 # Create by default posts in one file format?
@@ -359,7 +386,7 @@ HIDDEN_CATEGORIES = []
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-# ARCHIVE_PATH = ""
+ARCHIVE_PATH = "archives"
 # ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
@@ -391,7 +418,7 @@ HIDDEN_CATEGORIES = []
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [["2013/08/bull-branch-with-jeff/index.html", "/posts/2013/08/bull-branch-with-jeff.html"], ["2011/06/doing-some-tinkering/index.html", "/posts/2011/06/doing-some-tinkering.html"], ["2013/05/the-west-branch/index.html", "/posts/2013/05/the-west-branch.html"], ["2011/11/help-me-win-a-kayak/index.html", "/posts/2011/11/help-me-win-a-kayak.html"], ["2011/06/week-6/index.html", "/posts/2011/06/week-6.html"], ["2011/06/781/index.html", "/stories/2011/06/781.html"], ["2013/12/skining-up-shawnee/index.html", "/posts/2013/12/skining-up-shawnee.html"], ["2011/03/speed-run/index.html", "/posts/2011/03/speed-run.html"], ["2011/06/780/index.html", "/stories/2011/06/780.html"], ["2011/03/changing-statistics/index.html", "/posts/2011/03/changing-statistics.html"], ["2012/11/biking-in-harold-parker/index.html", "/posts/2012/11/biking-in-harold-parker.html"], ["2013/08/sunrise-at-shawnee-peak/index.html", "/posts/2013/08/sunrise-at-shawnee-peak.html"], ["chewonki/whitewater-resources/index.html", "/stories/chewonki/whitewater-resources.html"], ["2012/12/a-chilly-sheepscot-session/index.html", "/posts/2012/12/a-chilly-sheepscot-session.html"], ["2012/03/magic-mtn-invasion/index.html", "/posts/2012/03/magic-mtn-invasion.html"], ["2012/08/ammons-quote/index.html", "/posts/2012/08/ammons-quote.html"], ["2011/06/another-kind-of-paddling/index.html", "/posts/2011/06/another-kind-of-paddling.html"], ["chewonki/12-umb-1/index.html", "/stories/chewonki/12-umb-1.html"], ["2015/07/wfrcane/index.html", "/posts/2015/07/wfrcane.html"], ["2011/12/happy-new-years/index.html", "/posts/2011/12/happy-new-years.html"], ["kayaking/index.html", "/stories/kayaking.html"], ["2011/03/estero-fouque/index.html", "/posts/2011/03/estero-fouque.html"], ["2011/05/unpacking-and-cleaning/index.html", "/posts/2011/05/unpacking-and-cleaning.html"], ["2012/09/a-mahoosuc-loop/index.html", "/posts/2012/09/a-mahoosuc-loop.html"], ["hireme/index.html", "/stories/hireme.html"], ["2013/06/k-bomb-race/index.html", "/posts/2013/06/k-bomb-race.html"], ["skiing/index.html", "/stories/skiing.html"], ["2010/11/thanksgiving/index.html", "/posts/2010/11/thanksgiving.html"], ["2012/03/a-skin-up-saddleback/index.html", "/posts/2012/03/a-skin-up-saddleback.html"], ["2012/04/ledyard-riverfest/index.html", "/posts/2012/04/ledyard-riverfest.html"], ["2011/06/822/index.html", "/stories/2011/06/822.html"], ["2011/02/full-moon-over-puerto-williams/index.html", "/posts/2011/02/full-moon-over-puerto-williams.html"], ["2012/04/drummer-hill/index.html", "/posts/2012/04/drummer-hill.html"], ["2013/06/2013-whitewater-training-trip/index.html", "/posts/2013/06/2013-whitewater-training-trip.html"], ["2011/03/bahia-pia/index.html", "/posts/2011/03/bahia-pia.html"], ["2012/09/umbagog-ii-video/index.html", "/posts/2012/09/umbagog-ii-video.html"], ["2011/04/rafting-for-class/index.html", "/posts/2011/04/rafting-for-class.html"], ["geology/index.html", "/stories/geology.html"], ["2011/06/rapids-falls-big-water/index.html", "/posts/2011/06/rapids-falls-big-water.html"], ["2011/06/782/index.html", "/stories/2011/06/782.html"], ["2013/05/bull-branch/index.html", "/posts/2013/05/bull-branch.html"], ["photography/kayak/index.html", "/stories/photography/kayak.html"], ["2011/06/779/index.html", "/stories/2011/06/779.html"], ["2011/08/a-busy-summer/index.html", "/posts/2011/08/a-busy-summer.html"], ["chewonki/12-umb-2/umbagog-ii-photos/index.html", "/stories/chewonki/12-umb-2/umbagog-ii-photos.html"], ["2012/09/the-mahoosuc-trail/index.html", "/posts/2012/09/the-mahoosuc-trail.html"], ["2011/06/why-do-i-paddle/index.html", "/posts/2011/06/why-do-i-paddle.html"], ["2011/03/sailing/index.html", "/posts/2011/03/sailing.html"], ["2011/07/3-weeks-6-kids/index.html", "/posts/2011/07/3-weeks-6-kids.html"], ["2011/01/sunset/index.html", "/posts/2011/01/sunset.html"], ["2011/11/halloween-costume/index.html", "/posts/2011/11/halloween-costume.html"], ["2012/10/well-goodbye-cool-ship/index.html", "/posts/2012/10/well-goodbye-cool-ship.html"], ["2012/12/cathance-with-jeff/index.html", "/posts/2012/12/cathance-with-jeff.html"], ["2012/07/whitewater-training-trip/index.html", "/posts/2012/07/whitewater-training-trip.html"], ["chewonki/planning/index.html", "/stories/chewonki/planning.html"], ["chewonki/13-juniper/index.html", "/stories/chewonki/13-juniper.html"], ["2015/02/avalanche-2/index.html", "/posts/2015/02/avalanche-2.html"], ["2011/05/week-4/index.html", "/posts/2011/05/week-4.html"], ["kayaking/flows/index.html", "/stories/kayaking/flows.html"], ["2011/01/getting-stuff-done/index.html", "/posts/2011/01/getting-stuff-done.html"], ["2011/02/a-basin-patrol/index.html", "/posts/2011/02/a-basin-patrol.html"], ["chewonki/12-umb-2/index.html", "/stories/chewonki/12-umb-2.html"], ["photography/patagonia/index.html", "/stories/photography/patagonia.html"], ["2011/05/im-alive/index.html", "/posts/2011/05/im-alive.html"], ["2011/06/820/index.html", "/stories/2011/06/820.html"], ["2014/12/what-drysuits-are-for/index.html", "/posts/2014/12/what-drysuits-are-for.html"], ["2011/01/geological-hijinks-in-argentina/index.html", "/posts/2011/01/geological-hijinks-in-argentina.html"], ["2011/06/wahoo/index.html", "/posts/2011/06/wahoo.html"], ["2014/01/a-couple-weeks-of-maine/index.html", "/posts/2014/01/a-couple-weeks-of-maine.html"], ["photography/ski/index.html", "/stories/photography/ski.html"], ["2010/10/apple-juice/index.html", "/posts/2010/10/apple-juice.html"], ["2012/09/umbagog-i/index.html", "/posts/2012/09/umbagog-i.html"], ["2011/01/micalvi-bar/index.html", "/posts/2011/01/micalvi-bar.html"], ["photography/maine/index.html", "/stories/photography/maine.html"], ["2010/12/heading-south-and-then-heading-back-north/index.html", "/posts/2010/12/heading-south-and-then-heading-back-north.html"], ["2010/12/torres-del-paine/index.html", "/posts/2010/12/torres-del-paine.html"], ["2011/05/week-1/index.html", "/posts/2011/05/week-1.html"], ["2010/12/cathance-in-december/index.html", "/posts/2010/12/cathance-in-december.html"], ["2012/05/wiskeag-trail/index.html", "/posts/2012/05/wiskeag-trail.html"], ["2011/11/thanksgiving-2/index.html", "/posts/2011/11/thanksgiving-2.html"], ["photography/index.html", "/stories/photography.html"], ["2012/05/creeking-clinic-on-the-wells/index.html", "/posts/2012/05/creeking-clinic-on-the-wells.html"], ["2010/12/gear-fatality-1/index.html", "/posts/2010/12/gear-fatality-1.html"], ["2013/08/the-nob-race/index.html", "/posts/2013/08/the-nob-race.html"], ["2010/12/snow-boothbay/index.html", "/posts/2010/12/snow-boothbay.html"], ["2011/05/week-3/index.html", "/posts/2011/05/week-3.html"], ["2012/04/beaver-brook/index.html", "/posts/2012/04/beaver-brook.html"], ["2011/01/metal-and-sunsets-at-micalvi/index.html", "/posts/2011/01/metal-and-sunsets-at-micalvi.html"], ["2014/10/swarming-sandy-stream/index.html", "/posts/2014/10/swarming-sandy-stream.html"], ["2011/01/headed-to-55%c2%ba-south/index.html", "/posts/2011/01/headed-to-55o-south.html"], ["2011/06/798/index.html", "/stories/2011/06/798.html"], ["2013/06/cold-brook/index.html", "/posts/2013/06/cold-brook.html"], ["wp-admin/admin.phpindex.html", "/stories/wp-admin/admin.php/wordpress.html"], ["2010/06/beginner-one-whitewater/index.html", "/posts/2010/06/beginner-one-whitewater.html"], ["2012/02/1070/index.html", "/posts/2012/02/1070.html"], ["about/index.html", "/stories/about.html"], ["2012/12/sugarloaf/index.html", "/posts/2012/12/sugarloaf.html"], ["2012/11/vote-for-keeping-the-fuzzy-side-up/index.html", "/posts/2012/11/vote-for-keeping-the-fuzzy-side-up.html"], ["2011/05/week-2/index.html", "/posts/2011/05/week-2.html"], ["2010/11/cathance/index.html", "/posts/2010/11/cathance.html"], ["2011/02/boat-stuff-done/index.html", "/posts/2011/02/boat-stuff-done.html"], ["chewonki/13-shang-tu/index.html", "/stories/chewonki/13-shang-tu.html"], ["2011/03/escape-from-puerto-williams/index.html", "/posts/2011/03/escape-from-puerto-williams.html"], ["2015/03/streams-in-grafton/index.html", "/posts/2015/03/streams-in-grafton.html"], ["2011/03/swiftwater/index.html", "/posts/2011/03/swiftwater.html"], ["2012/09/fresh-dirt-at-camden-snowbowl/index.html", "/posts/2012/09/fresh-dirt-at-camden-snowbowl.html"], ["2011/05/heading-out-of-punta-arenas/index.html", "/posts/2011/05/heading-out-of-punta-arenas.html"], ["2011/05/some-video-from-the-cathance/index.html", "/posts/2011/05/some-video-from-the-cathance.html"], ["2011/02/cleaning/index.html", "/posts/2011/02/cleaning.html"], ["2010/12/too-quick/index.html", "/posts/2010/12/too-quick.html"], ["2011/10/i-do-still-exist/index.html", "/posts/2011/10/i-do-still-exist.html"]]
+REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -1004,3 +1031,21 @@ GLOBAL_CONTEXT = {
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+OIL_SECRET_KEY = 'incdmUHfMFQTkkwAhxVm8KPAT2Ag3QEGBrUBbAjENunYutVZAH'
+COIL_LIMITED = True
+COIL_USERS = {
+    '1': {
+        'username': 'admin',
+        'realname': 'Website Administrator',
+        'password': '$bcrypt-sha256$2a,12$St3N7xoStL7Doxpvz78Jve$3vKfveUNhMNhvaFEfJllWEarb5oNgNu',
+        'must_change_password': False,
+        'email': 'info@getnikola.com',
+        'active': True,
+        'is_admin': True,
+        'can_edit_all_posts': True,
+        'wants_all_posts': True,
+        'can_upload_attachments': True,
+        'can_rebuild_site': True,
+        'can_transfer_post_authorship': True,
+    },
+}
