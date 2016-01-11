@@ -31,8 +31,9 @@
     <header>
         ${html_title()}
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">${post.author()}</span></p>
-            <p class="dateline"><a href="${post.permalink()}" rel="bookmark"><time class="post-date published dt-published" datetime="${post.date.isoformat()}" itemprop="datePublished" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></a></p>
+            <p>
+              ##<span class="byline author vcard byline-name fn">${post.author()}</span> - 
+            <span class="dateline"><a href="${post.permalink()}" rel="bookmark"><time class="post-date published dt-published" datetime="${post.date.isoformat()}" itemprop="datePublished" title="${post.formatted_date(date_format)}">${post.formatted_date(date_format)}</time></a></span></p>
             % if not post.meta('nocomments') and site_has_comments:
                 <p class="commentline">${comments.comment_link(post.permalink(), post._base_path)}
             % endif

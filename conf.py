@@ -177,7 +177,7 @@ TIMEZONE = "UTC"
 
 # Date format used to display post dates.
 # (str used by datetime.datetime.strftime)
-# DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = '%Y-%m-%d'
 
 # Date format used to display post dates, if local dates are used.
 # (str used by moment.js)
